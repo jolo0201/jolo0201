@@ -7,13 +7,10 @@
   
 
 - 🔭 I’m currently working on Hermes Accounting System, Chronos Time Management System, E-Portal, and Chronos' Windows Service.  
-  
 
 - 🌱 I’m currently learning Azure DevOps, NodeJS, ReactJS and Bash  
-  
 
-- ❓ Ask me about anything related to .NET tech, VB.NET, MySQL, Java.  
-  
+- ❓ Ask me about anything related to .NET tech, C#, VB.NET, MySQL, Java.  
 
 - ⚡ Fun fact: I am a musician at heart and able to play the basics of all common instruments.  
   
@@ -22,9 +19,6 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="50%">
-
-
 
 ### Tech Stack  
 <div align="center">  
@@ -43,19 +37,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-</div>
-
-</td><td valign="top" width="50%">
-
-
-
-### DevOps  
-<div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
-
-</td></tr></table>  
 
 <br/>  
 
