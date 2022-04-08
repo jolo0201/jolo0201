@@ -43,6 +43,11 @@
 
 <br/>  
 
+## Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jolo0201&layout=compact" align="center" />
+</div>  
+
 
 ## Connect with me  
 <div align="center">
