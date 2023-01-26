@@ -3,14 +3,12 @@
 </div>  
   
 
-### <div align="center">a software developer 👨‍💻 working @ Servo IT Solutions since 2017🚀</div>  
+### <div align="center">a software developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on Hermes Accounting System, Chronos Time Management System, E-Portal, and Chronos' Windows Service.  
+- 🔭 I’m currently working on some systems.  
 
-- 🌱 I’m currently learning Azure DevOps, NodeJS, ReactJS and Bash  
-
-- ❓ Ask me about anything related to .NET tech, C#, VB.NET, MySQL, Java.  
+- 🌱 I’m currently learning Azure a lot of things 
 
 - ⚡ Fun fact: I am a musician at heart and able to play the basics of all common instruments.  
   
