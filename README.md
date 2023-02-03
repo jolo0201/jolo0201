@@ -3,12 +3,12 @@
 </div>  
   
 
-### <div align="center">a software developer 👨‍💻</div>  
+### <div align="center">software developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on some systems.  
+- 🔭 I’m currently working on some projects.  
 
-- 🌱 I’m currently learning Azure a lot of things 
+- 🌱 I’m currently learning a lot of things 
 
 - ⚡ Fun fact: I am a musician at heart and able to play the basics of all common instruments.  
   
